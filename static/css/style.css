@@ -192,12 +192,12 @@ progress::-moz-progress-value {
     margin-top:20px;
     margin-bottom: 10px;
     background-image:url('../image/user.jpg');
-    background-size: 120%;
+    background-size: 80%;
     background-position:center;
     border-radius:50%;
     border:5px solid #607d8b;
-    width:160px;
-    height:160px;
+    width:200px;
+    height:200px;
 }
 
 
